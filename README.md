@@ -1,2 +1,2 @@
 # ToDoApp
-My ToDo App Project with React, PostGreSQL, NodeJS
+ToDo App with Angular and Firestore
